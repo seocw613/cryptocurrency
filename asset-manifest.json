@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cryptocurrency/static/js/main.fb766412.js",
+    "index.html": "/cryptocurrency/index.html",
+    "main.fb766412.js.map": "/cryptocurrency/static/js/main.fb766412.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fb766412.js"
+  ]
+}
